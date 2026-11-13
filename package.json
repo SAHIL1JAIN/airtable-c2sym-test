@@ -1,0 +1,11 @@
+{
+  "name": "c2sym-synthetic-template-check",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Controlled synthetic symlink handling test for Airtable Blocks CLI",
+  "dependencies": {
+    "@airtable/blocks": "1.19.0",
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
+  }
+}
